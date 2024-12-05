@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "adam",
+      "email": "adam@gamil.com",
+      "phone": "09123456789",
+      "address": "Shiraz"
+    }
+  ]
+}
